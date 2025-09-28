@@ -48,4 +48,10 @@ Currently, I'm building a portfolio that showcases my ability to:
 * collaboration and team work.
 * Time management and ability to meet deadlines.
 * Adaptability and continous learning mindset.
+
+ ## Contact Information
+  [LinkedIn](https://www.linkedin.com/in/chidera-ugochukwu-9468b534b)
+  
+  [Gmail](cugochukwu942@gmail.com)
+
   
